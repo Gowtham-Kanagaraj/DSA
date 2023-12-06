@@ -1,4 +1,6 @@
 # DSA Practise
 
 ### Array
--[x] Sorted Square root of array 
+- :white_check_mark: Sorted Square root of array
+
+
